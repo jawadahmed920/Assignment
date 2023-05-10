@@ -1,0 +1,418 @@
+#container {
+    width: 1300px;
+    height: 60px;
+    margin: 0%;
+    padding: 0%;
+    display: flex;
+    text-align: center;
+    background-color: rgb(176, 216, 252);
+
+}
+
+.one {
+    width: 1000px;
+    height: 70px;
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.logo {
+    width: 400px;
+    height: 100px;
+    margin: 0%;
+    display: flex;
+    justify-items: center;
+    padding: 0%;
+    text-align: center;
+}
+
+body {
+    margin: 0%;
+    padding: 0%;
+    margin-left: 1%;
+}
+
+.container {
+    width: 1300px;
+    height: 700px;
+    background-repeat: no-repeat;
+    background-image: url(./pic2.jpg);
+    color: black;
+}
+
+.h1 {
+    width: 400px;
+    height: 100px;
+    color: solid black;
+    font-size: x-large;
+    margin-left: 40%;
+    display: flex;
+    text-decoration: wavy;
+    text-align: initial;
+    align-items: center;
+
+}
+
+.searchbar {
+    margin-left: 40%;
+    width: 100px;
+    height: 30px;
+
+}
+
+.search {
+
+    margin-left: 50%;
+
+}
+
+.container1 {
+    width: 600px;
+    display: flex;
+    justify-content: space-around;
+    margin-left: 28%;
+
+}
+
+.container2 {
+    width: 1300px;
+    height: 60px;
+    background-color: rgb(246, 246, 220);
+    display: flex;
+    justify-content: space-around;
+}
+
+.container3 {
+    height: 600px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.box1 {
+    width: 230px;
+    height: 260px;
+    color: white;
+    margin-left: 0.2%;
+    margin-top: 0.2%;
+    background-image: url(https://fiverr-res.cloudinary.com/q_auto,f_auto,w_255,dpr_1.0/v1/attachments/generic_asset/asset/f27bec553efc12cc60baed89b8f2223e-1674661140708/ai-artists-2x.png);
+
+}
+
+.box2 {
+    width: 230px;
+    height: 260px;
+    color: white;
+    margin-left: 0.2%;
+    margin-top: 0.2%;
+    background-image: url(https://fiverr-res.cloudinary.com/q_auto,f_auto,w_255,dpr_1.0/v1/attachments/generic_asset/asset/055f758c1f5b3a1ab38c047dce553860-1598561741678/logo-design-2x.png);
+
+}
+
+.box3 {
+    width: 230px;
+    height: 260px;
+    color: white;
+    margin-left: 0.2%;
+    margin-top: 0.2%;
+    background-image: url(https://fiverr-res.cloudinary.com/q_auto,f_auto,w_255,dpr_1.0/v1/attachments/generic_asset/asset/ae11e2d45410b0eded7fba0e46b09dbd-1598561917003/wordpress-2x.png);
+
+}
+
+.box4 {
+    width: 230px;
+    height: 260px;
+    color: white;
+    margin-left: 0.2%;
+    margin-top: 0.2%;
+    background-image: url(https://fiverr-res.cloudinary.com/q_auto,f_auto,w_255,dpr_1.0/v1/attachments/generic_asset/asset/055f758c1f5b3a1ab38c047dce553860-1598561741669/voiceover-2x.png);
+
+}
+
+.container4 {
+    font-size: large;
+    margin-left: 1%;
+    align-items: center;
+    background-color: antiquewhite;
+    justify-content: space-around;
+    display: flex;
+}
+
+.three {
+    width: 500px;
+    height: 700px;
+}
+
+.container6 {
+    height: 200px;
+    width: 1300px;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+}
+
+.box14 {
+    width: 100px;
+    height: 100px;
+
+}
+
+.box5 {
+    width: 100px;
+    height: 100px;
+
+}
+
+.box6 {
+    width: 100px;
+    height: 100px;
+
+}
+
+.box7 {
+    width: 100px;
+    height: 100px;
+
+}
+
+.box8 {
+    width: 100px;
+    height: 100px;
+
+}
+
+.container7 {
+    height: 200px;
+    width: 1300px;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+}
+
+.box9 {
+    width: 70px;
+    height: 100px;
+
+}
+
+.box10 {
+    width: 70px;
+    height: 100px;
+
+}
+
+.box11 {
+    width: 70px;
+    height: 100px;
+
+}
+
+.box12 {
+    width: 100px;
+    height: 100px;
+    margin-top: 1%;
+
+}
+
+.box13 {
+
+    width: 100px;
+    height: 100px;
+}
+
+.container8 {
+    width: 1300px;
+    height: 250px;
+    background-color: bisque;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.box15 {
+    width: 320px;
+    height: 310px;
+    border: solid black;
+
+}
+
+.box16 {
+    width: 320px;
+    height: 310px;
+    border: solid black;
+
+}
+
+.box17 {
+    width: 320px;
+    height: 310px;
+    border: solid black;
+
+}
+
+.box18 {
+    width: 320px;
+    height: 310px;
+    border: solid black;
+
+}
+
+.container9 {
+    width: 1300px;
+    height: 200px;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+
+
+}
+
+.box19 {
+    width: 320px;
+    height: 60px;
+    display: flex;
+    font-size: x-large;
+    border: solid black;
+
+}
+
+.box20 {
+    width: 320px;
+    height: 60px;
+    display: flex;
+    font-size: x-large;
+    border: solid black;
+
+}
+
+.box21 {
+    width: 320px;
+    height: 60px;
+    display: flex;
+    font-size: x-large;
+    border: solid black;
+
+}
+
+.box22 {
+    width: 320px;
+    height: 60px;
+    display: flex;
+    font-size: x-large;
+    border: solid black;
+
+}
+
+#container1 {
+    margin: 0%;
+    padding: 0%;
+    margin-left: 1%;
+    width: 1300px;
+    height: 700px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    background-color: rgb(239, 249, 171);
+}
+
+.container10 {
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+
+}
+
+.box23 {
+    width: 350px;
+    height: 200px;
+
+
+}
+
+.box24 {
+    width: 320px;
+    height: 200px;
+
+
+}
+
+.box25 {
+    width: 300px;
+    height: 200px;
+
+
+}
+
+.container11 {
+    width: 1300px;
+    height: 400px;
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+
+}
+
+.box26 {
+    width: 350px;
+    height: 200px;
+}
+
+.box27 {
+    width: 330px;
+    height: 200px;
+
+
+}
+
+.box28 {
+    width: 300px;
+    height: 200px;
+
+
+}
+.container12{
+    width: 1300px;
+    height: 1000px;
+    margin-top: 4%;
+    background-color: rgb(169, 239, 241);
+    display: flex;
+    font-size: x-large;
+    text-decoration: none;
+    justify-content: space-around;
+
+
+}
+.box29{
+    width: 250px;
+    height: 800px;
+    margin-top: 7%;
+    
+}
+.box30{
+    width: 250px;
+    height: 800px;
+    margin-top: 7%;
+
+}
+.box31{
+    width: 250px;
+    height: 800px;
+    margin-top: 7%;
+
+}
+.box32{
+    width: 250px;
+    height: 800px;
+    margin-top: 7%;
+
+}
+.box33{
+    width: 250px;
+    height: 800px;
+    margin-top: 7%;
+
+}
